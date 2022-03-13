@@ -52,7 +52,15 @@ br tag is used to give break betwen the lines
 ***********
 hr tag is used to give horizontal lines
 ***********
-
+WEBTABLES:
+thead : table header row
+th    : tables header data
+tr    : table body row
+td    : table body data
+******
+pages/sign_up.html
+Give me sign_up.html file thas is under pages folder
+CASE SENSETIVE
 
 
 

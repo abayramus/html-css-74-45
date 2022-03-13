@@ -47,3 +47,28 @@ h3{
     border-radius: 50%;
     padding: 50px;
 }
+
+body{
+    background-image: url("https://images.rawpixel.com/image_800/czNmcy1wcml2YXRlL3Jhd3BpeGVsX2ltYWdlcy93ZWJzaXRlX2NvbnRlbnQvbHIvdjU0NmJhdGNoMy1teW50LTMxLWJhZGdld2F0ZXJjb2xvcl8xLmpwZw.jpg?s=kjTI4a00C2b9nAOvH5hat5JfydrZquKTl-nMyOGIebE");
+    background-repeat: repeat;
+}
+table,th{
+    font-size: 40px;
+    border: 3px solid red;
+    background-color: lightgray;
+    border-spacing: 10px; 
+}
+th{
+    background-color: darkgray;  
+}
+td{
+    border: 3px solid purple;
+    color: darkgreen;
+}
+
+iframe{
+    width: 100%;
+    height: 600px;
+}
+
+
