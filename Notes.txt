@@ -1,0 +1,58 @@
+All html files must have <html><html/> tag
+***Creating elements
+ <h1 style="color:red;font-size: 40px;font-family:arial-black">My Information</h1>
+<h1> -> opening TAG
+</h1>-> closing TAG
+----------
+style -> style is an ATTRIBUTE
+style -> style is used for adding css styles
+style keywork is used in the opening tag of the html elements
+color:red -> values
+---------
+My Information -> content of h1 elements
+*********
+There are 6 headers
+h1, h2, h3, h4, h5, h6
+**********
+Css Styling: 
+3 ways:
+1.inline   -> <h1 style="color:red"</h1> 
+2.internal -> <style>
+                    h1{
+                        color: blue;
+                        font-size: 30px;
+                        font-family: arial-black;
+                        background-color: beige;
+                    }
+            </style>
+3.external
+----
+NOTE: inline style OVERRIDES internal or external styles
+inline is dominant style
+For example, if you want to override the color property,
+use <h1 style="color:red"</h1>
+Final styles :  color: red; 
+                font-size: 30px;
+                font-family: arial-black;
+                background-color: beige;
+---------------
+class Attribute is used for applying the same styling for different elements
+class attribute is the most common way to apply css styles
+Use class when adding css style
+. = class
+----------------
+id Attribute is used for applying UNIQUE styling for different elements
+Becasue id MUST be unique
+# = id
+-----
+same style -> class
+unique style -> id
+***********
+br tag is used to give break betwen the lines
+***********
+hr tag is used to give horizontal lines
+***********
+
+
+
+

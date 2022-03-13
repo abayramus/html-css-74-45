@@ -1,0 +1,49 @@
+/* this file will be used for only css code */
+h1{
+    color: red;
+    font-size: 30px;
+    font-family: arial-black;
+    background-color: beige;
+}
+p{
+    text-align: justify; 
+    background-color:lightblue
+}
+h2{
+    color: #00ff00; 
+    font-size: 2em; 
+    font-family: cursive; 
+    text-align:end
+}
+h3{
+    font-size: 120%; 
+    text-align:center;
+    color: rgba(186, 62, 211, 0.324)
+}
+.yb{
+    color:black; 
+    font-size: 45px; 
+    font-family: courier; 
+    background-color:lightgoldenrodyellow; 
+    text-align:center
+}
+#hf{
+    color:#00ff00;
+    background-color: bisque;
+    font-size: 25px;
+}
+
+.my-style{
+    color:purple;
+    font-size: 30px;
+    background-color: beige;
+}
+
+.img-1{
+    width: 300px;
+    height: 300px;
+    border: 5px solid;
+    color: red;
+    border-radius: 50%;
+    padding: 50px;
+}
